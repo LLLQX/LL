@@ -1,16 +1,3 @@
-package addressbook;
-
-import java.util.HashSet;
-import java.util.Set;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
-
-
-
 /**
  * 从字符串中截取出电话号码
  * @author zcr
@@ -131,5 +118,3 @@ private static Set<String> getPhoneNumFromFile(String filePath) {
 }
  
 }
-
-
