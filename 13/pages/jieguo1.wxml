@@ -1,0 +1,6 @@
+<!--pages/jieguo1.wxml-->
+
+<text class="aa"  space="ensp">战局ID      出牌情况          分数   结算时间</text>
+<text class="title" space="ensp">{{id}}         {{card1}}           {{score}}</text>
+<text class="title" space="ensp">{{card2}}</text>
+<text class="title" space="ensp">{{card3}}</text>

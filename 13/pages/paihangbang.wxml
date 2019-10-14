@@ -1,0 +1,4 @@
+<!--pages/paihangbang.wxml-->
+<text class="title">排行榜</text>
+<text class="aa"  space="ensp">排名   玩家ID  玩家名       分数</text>
+<text class="title"   space="ensp">NO.1   {{id}}      {{playerId}}         {{score}}</text>
